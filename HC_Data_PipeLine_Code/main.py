@@ -5,9 +5,9 @@ Created on Wed Jan 10 12:37:32 2024
 @author: naveen
 """
 
-from Pre_Processing.Mariadb_Claims import mariadb_pre_processing
-from Pre_Processing.Investication_MIS import investication_mis_pre_processing
-from Pre_Processing.Claim_MIS import claims_mis_pre_processing
+from HC_Data_PipeLine_Code.Pre_Processing.Mariadb_Claims import mariadb_pre_processing
+from HC_Data_PipeLine_Code.Pre_Processing.Investication_MIS import investication_mis_pre_processing
+from HC_Data_PipeLine_Code.Pre_Processing.Claim_MIS import claims_mis_pre_processing
 
 
 try:
